@@ -1,1 +1,0 @@
-print("are koi baat nahin aise hi  gussa aa gaya tha isliye butn now i am fine i am looking at you not her 😊")
