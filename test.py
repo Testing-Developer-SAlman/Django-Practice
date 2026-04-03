@@ -1,1 +1,1 @@
-print("Mene Sab delete kar diya h. And yaar kyu aap itni chup ho gayi yaaar kyuuuuuuuuuun ")
+print("are koi baat nahin aise hi  gussa aa gaya tha isliye butn now i am fine i am looking at you not her 😊")
