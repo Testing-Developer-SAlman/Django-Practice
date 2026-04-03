@@ -1,3 +1,5 @@
 print("Hello, AtufaBanu Shaikh")
 print("Atufa is here")
 print("This is New Line")
+print("This is Second Line")
+print("This is Third Line")
